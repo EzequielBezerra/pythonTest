@@ -1,0 +1,1 @@
+Este é um algoritmo simples em Python, criado com o objetivo de treinar a lógica da linguagem. Ele funciona como uma calculadora. Ao ser iniciado, exibirá algumas opções de operações matemáticas que o usuário pode utilizar, incluindo a raiz quadrada.
